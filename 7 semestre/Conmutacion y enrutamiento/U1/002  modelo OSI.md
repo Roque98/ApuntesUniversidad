@@ -1,5 +1,7 @@
 # Introduccion al modelo OSI
 
+> Open System Interconexion (Interconexion de sistemas abiertos)
+
 ## Capas del modelo OSI
 
 1. Fisca
